@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6af0c5d991e9465db4ac15fb"
+  },
+  "brand": "Rayban",
+  "supplier_id": {
+    "$oid": "6af0c53891e9465db4ac15f9"
+  },
+  "frame_type": "Metallic",
+  "frame_color": "black",
+  "price": 200
+}]

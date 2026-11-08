@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6af0fb5591e9465db4ac1630"
+  },
+  "name": "Jordi A.",
+  "address": {
+    "street": "Carrer Balmes",
+    "number": 112,
+    "floor": "3",
+    "door": "1a",
+    "city": "Barcelona",
+    "zipcode": "08008",
+    "country": "España"
+  },
+  "phone": "600000000",
+  "email": "ja@email.com",
+  "register_date": {
+    "$date": "2026-02-15T15:00:00.000Z"
+  },
+  "recommended_by": null,
+  "purchases": [
+    {
+      "sale_date": {
+        "$date": "2026-01-01T14:00:00.000Z"
+      },
+      "employee_id": {
+        "$oid": "6af0f77391e9465db4ac1625"
+      },
+      "glasses_id": {
+        "$oid": "6af0c5d991e9465db4ac15fb"
+      },
+      "price": 200,
+      "prescription": {
+        "left": 1.5,
+        "right": 1.75
+      },
+      "glass_color": {
+        "left": "Green",
+        "right": "Green"
+      }
+    }
+  ]
+}]

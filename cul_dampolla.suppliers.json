@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6af0c53891e9465db4ac15f9"
+  },
+  "name": "Ulleres S.L.",
+  "address": {
+    "street": "Carrer Major",
+    "number": 45,
+    "floor": 5,
+    "door": 1,
+    "city": "Barcelona",
+    "zip_code": "08029",
+    "country": "España"
+  },
+  "phone": "900010101",
+  "fax": "900010101",
+  "nif": "B12345678"
+}]
